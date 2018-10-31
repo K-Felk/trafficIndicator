@@ -242,7 +242,7 @@ switch ($average) {
 			<div id="cms-content">
 
 
-			<h1>Current Level of Traffic in Mary Idema Pew Library</h1>
+			<h1>How Busy is the Mary Idema Pew Library Right Now?</h1>
 
 			<P> As of <? echo $timeString; ?></P>
 
@@ -254,7 +254,7 @@ switch ($average) {
 </div>
 
 
-<P>Traffic data is collected roughly every hour.  If you need help finding an open place to study, text the staff at Mary Idema Pew at 616 818 0219 for suggestions.</P>
+<P>This data is collected approximately every hour. Looking for an open seat? Text the staff at Mary Idema Pew Library at 616-818-0219 for suggestions.</P>
 
 </div>
     </div>
