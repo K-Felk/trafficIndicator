@@ -52,6 +52,9 @@ foreach ($labels as $label) {
 }
 
 switch ($average) {
+	case 0:
+		$style = "green";
+		break;
 	case 1:
 		$style = "green";
 		break;
