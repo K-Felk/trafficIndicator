@@ -254,7 +254,9 @@ switch ($average) {
 </div>
 
 
-<P>This data is collected approximately every hour. Looking for an open seat? Text the staff at Mary Idema Pew Library at 616-818-0219 for suggestions.</P>
+<P>This data is collected approximately every hour. </P>
+
+<P>Kirkhof Center will also be reserving space for extra student study and the Loutit atrium will have extra study tables. Text the library at 616-818-0219 for customized seating suggestions.</P>
 
 </div>
     </div>
