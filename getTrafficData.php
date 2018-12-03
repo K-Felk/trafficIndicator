@@ -259,7 +259,9 @@ switch ($average) {
 
 <P>This data is collected approximately every hour. </P>
 
-<P>Kirkhof Center will also be reserving space for extra student study and the Loutit atrium will have extra study tables. Text the library at 616-818-0219 for customized seating suggestions.</P>
+<P>Kirkhof Center will also be reserving space for extra student study and the Loutit atrium will have extra study tables. </P>
+
+<P style="font-weight:bold">Text the library at 616-818-0219 for customized seating suggestions.</P>
 
 </div>
     </div>
