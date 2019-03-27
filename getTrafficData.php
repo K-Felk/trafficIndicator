@@ -90,7 +90,7 @@ switch ($average) {
 	<link type="text/css" rel="stylesheet" href="https://prod.library.gvsu.edu/libs/fontawesome/fontawesome-all.min.css">
 	<link type="text/css" rel="stylesheet" href="https://prod.library.gvsu.edu/labs/libguides/css/styles.css">
 	<link type="text/css" rel="stylesheet" href="https://gvsu.edu/library/files/css/base.css">
-	<script src="https://gvsu.edu/cms4/skeleton/1/files/js/cms4.1.min.js"></script>
+	
 	<script src="https://prod.library.gvsu.edu/labs/template_hours/hours.js"></script>
 
 
